@@ -17,7 +17,7 @@ img {
   max-width: 100%;
 }
 
-.timer {
+/* .timer {
   display: flex;
   gap: 15px;
   margin-top: 20px;
@@ -39,8 +39,8 @@ img {
   background-color: aquamarine;
   border-radius: 20px;
   border: solid 1 darkcyan;
-}
-
+} */
+/* 
 button {
   width: 120px;
   height: 34px;
@@ -70,4 +70,4 @@ input {
 input:disabled {
   font-weight: 400;
   background-color: rgb(206, 217, 228);
-}
+} */
